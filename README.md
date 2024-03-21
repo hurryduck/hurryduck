@@ -10,6 +10,7 @@
 
 ### Technologies
 ![Unity](https://img.shields.io/badge/-Unity-000?style=flat-square&logo=Unity)
+![Figma](https://img.shields.io/badge/-figma-000?style=flat-square&logo=figma)
 
 ### Collaboration Tools
 ![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=Git)
