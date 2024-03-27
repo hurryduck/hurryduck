@@ -21,5 +21,4 @@
 ![Figma](https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma)
 
 ### Beakjoon Online Judge
-[![Solved.ac
-tigeryck](http://mazassumnida.wtf/api/v2/generate_badge?boj=tigeryck)](https://solved.ac/tigeryck)
+[![Solved.ac/tigeryck](http://mazassumnida.wtf/api/v2/generate_badge?boj=tigeryck)](https://solved.ac/tigeryck)
