@@ -14,6 +14,7 @@
 ![csharp](https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp)
 
 ### Technologies
+![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=MySQL)
 ![Unity](https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity)
 
 ### Collaboration Tools
