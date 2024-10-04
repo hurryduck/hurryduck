@@ -27,8 +27,3 @@
 ![Amazon EC2](https://img.shields.io/badge/AmazonEC2-000?style=flat-square&logo=AmazonEC2)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX)
 ![ApacheTomcat](https://img.shields.io/badge/ApacheTomcat-000?style=flat-square&logo=ApacheTomcat)
-
-### Etc
-![Unity](https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack)
-![Figma](https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma)
