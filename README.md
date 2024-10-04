@@ -13,7 +13,7 @@
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-634533?style=flat-square&logo=Java)
-![csharp](https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp)
+![C Sharp](https://img.shields.io/badge/C_Sharp-512BD4?style=flat-square&logo=csharp)
 ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=Python)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-000?style=flat-square&logo=springboot)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=FastAPI)
