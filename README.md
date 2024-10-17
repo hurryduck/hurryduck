@@ -1,9 +1,10 @@
 ## Hi there, I'm HurryDuck! 🐥
 
 ### Contact
-[![Gmail](https://img.shields.io/badge/tigeryck0812@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:tigeryck0812@gmail.com)
+[![Gmail](https://img.shields.io/badge/tigeryck0812@gmail.com-000?style=flat-square&logo=Gmail)](mailto:tigeryck0812@gmail.com)
 [![Notion](https://img.shields.io/badge/Notion-000?style=flat-square&logo=Notion)](https://www.notion.so/e449b843a0df4f79b263105e17a53872)
 [![Velog](https://img.shields.io/badge/Velog-000?style=flat-square&logo=velog)](https://velog.io/@hurryduck/posts)
+[![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=flat-square&logo=YouTube)](https://www.youtube.com/@hurryduck/videos)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -26,4 +27,3 @@
 ![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=Linux)
 ![Amazon EC2](https://img.shields.io/badge/AmazonEC2-000?style=flat-square&logo=AmazonEC2)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX)
-![ApacheTomcat](https://img.shields.io/badge/ApacheTomcat-000?style=flat-square&logo=ApacheTomcat)
