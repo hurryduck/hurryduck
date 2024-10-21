@@ -10,15 +10,16 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js)
+![Vite](https://img.shields.io/badge/Vite-000?style=flat-square&logo=vite)
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-634533?style=flat-square&logo=Java)
-![C Sharp](https://img.shields.io/badge/C_Sharp-512BD4?style=flat-square&logo=csharp)
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-000?style=flat-square&logo=springboot)
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=FastAPI)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle)
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=Python)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=FastAPI)
+![C Sharp](https://img.shields.io/badge/C_Sharp-682876?style=flat-square&logo=csharp)
 
 ### DataBase
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=MySQL)
@@ -27,3 +28,4 @@
 ![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=Linux)
 ![Amazon EC2](https://img.shields.io/badge/AmazonEC2-000?style=flat-square&logo=AmazonEC2)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=Docker)
