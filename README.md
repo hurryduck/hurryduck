@@ -1,4 +1,4 @@
-# 🐥 Hi there, I'm HurryDuck!
+# 👋 Hi there, I'm HurryDuck!
 
 ## 🤙 Contact
 [![Gmail](https://img.shields.io/badge/tigeryck0812@gmail.com-DB4437?style=flat-square&logo=Gmail&logoColor=white)](mailto:tigeryck0812@gmail.com)
@@ -33,7 +33,7 @@
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
-## 💡 Projects
+## 👍 Projects
 |repository|site|description|
 |----------|----|-----------|
 |[BitData](https://github.com/jonghoko1/BitData)|[bitdata.kr](https://bitdata.kr/)|바이낸스 거래 데이터 기록 서비스|
