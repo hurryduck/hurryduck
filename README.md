@@ -1,10 +1,12 @@
 ## Hi there, I'm HurryDuck! 🐥
 
-### Contact
+## Contact
 [![Gmail](https://img.shields.io/badge/tigeryck0812@gmail.com-DB4437?style=flat-square&logo=Gmail&logoColor=white)](mailto:tigeryck0812@gmail.com)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/e449b843a0df4f79b263105e17a53872)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@hurryduck/posts)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@hurryduck/videos)
+
+## Skills
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -30,3 +32,9 @@
 ![Amazon EC2](https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+
+## Projects
+|project|duration|description|
+|-------|--------|-----------|
+|[BitData](https://github.com/jonghoko1/BitData)|2024.03~진행중|바이낸스 거래 데이터 기록 서비스|
+|[UpDown](https://github.com/ssg-java3-240304/up-and-down)|2024.07~2024.08|패키지 여행 최저가 검색 및 커뮤니티 서비스|
